@@ -18,15 +18,15 @@ Set up the project structure and development environment.
 
 ### Tasks
 
-* [ ] Create GitHub repository
-* [ ] Create project root folder
-* [ ] Create `frontend/`
-* [ ] Create `backend/`
-* [ ] Initialize React + Vite
-* [ ] Initialize FastAPI
-* [ ] Create `.gitignore`
-* [ ] Create `README.md`
-* [ ] Make initial Git commit
+* [x] Create GitHub repository
+* [x] Create project root folder
+* [x] Create `frontend/`
+* [x] Create `backend/`
+* [x] Initialize React + Vite
+* [x] Initialize FastAPI
+* [x] Create `.gitignore`
+* [x] Create `README.md`
+* [x] Make initial Git commit
 
 ### Expected Structure
 
@@ -48,7 +48,7 @@ cloud-notes/
 
 ### Status
 
-**⬜ NOT STARTED**
+**✅ COMPLETED**
 
 ---
 
