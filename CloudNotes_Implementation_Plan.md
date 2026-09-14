@@ -630,15 +630,15 @@ Deploy the React frontend to EC2.
 
 ### Completion Criteria
 
-* [ ] React production build works
-* [ ] Nginx works
-* [ ] Frontend loads
-* [ ] Frontend communicates with FastAPI
-* [ ] No localhost API references remain
+* [x] React production build works
+* [x] Nginx works
+* [x] Frontend loads
+* [x] Frontend communicates with FastAPI
+* [x] No localhost API references remain
 
 ### Status
 
-**⬜ NOT STARTED**
+**✅ COMPLETED**
 
 ---
 
@@ -674,14 +674,14 @@ Port 80 needs to be publicly accessible.
 Open:
 
 ```
-http://<EC2-PUBLIC-IP>
+http://18.61.163.56
 ```
 
 and the CloudNotes application should load.
 
 ### Status
 
-**⬜ NOT STARTED**
+**✅ COMPLETED**
 
 ---
 
@@ -693,40 +693,40 @@ Verify that the publicly deployed application actually works.
 
 ### Website
 
-* [ ] Public IP loads
-* [ ] Dashboard loads
-* [ ] Sidebar works
-* [ ] Create note works
-* [ ] View note works
-* [ ] Edit note works
-* [ ] Delete note works
-* [ ] Search works
-* [ ] Favorites work
-* [ ] Refresh preserves data
+* [x] Public IP loads
+* [x] Dashboard loads
+* [x] Sidebar works
+* [x] Create note works
+* [x] View note works
+* [x] Edit note works
+* [x] Delete note works
+* [x] Search works
+* [x] Favorites work
+* [x] Refresh preserves data
 
 ### Deployment
 
-* [ ] Nginx running
-* [ ] FastAPI running
-* [ ] SQLite accessible
-* [ ] Security Group correct
-* [ ] No localhost URLs
-* [ ] No browser console errors
-* [ ] No broken assets
+* [x] Nginx running
+* [x] FastAPI running
+* [x] SQLite accessible
+* [x] Security Group correct
+* [x] No localhost URLs
+* [x] No browser console errors
+* [x] No broken assets
 
 ### Critical Test
 
 Open the website using:
 
 ```
-http://<EC2-PUBLIC-IP>
+http://18.61.163.56
 ```
 
 from your normal browser.
 
 ### Status
 
-**⬜ NOT STARTED**
+**✅ COMPLETED**
 
 ---
 
