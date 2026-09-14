@@ -60,17 +60,17 @@ Create the FastAPI backend and connect SQLite.
 
 ### Tasks
 
-* [ ] Create FastAPI application
-* [ ] Create `main.py`
-* [ ] Configure SQLite
-* [ ] Configure SQLAlchemy
-* [ ] Create database connection
-* [ ] Create Note model
-* [ ] Create Pydantic schemas
-* [ ] Create API router
-* [ ] Configure CORS
-* [ ] Start FastAPI locally
-* [ ] Verify `/docs`
+* [x] Create FastAPI application
+* [x] Create `main.py`
+* [x] Configure SQLite
+* [x] Configure SQLAlchemy
+* [x] Create database connection
+* [x] Create Note model
+* [x] Create Pydantic schemas
+* [x] Create API router
+* [x] Configure CORS
+* [x] Start FastAPI locally
+* [x] Verify `/docs`
 
 ### Database Model
 
@@ -97,15 +97,15 @@ Swagger UI should open successfully.
 
 ### Completion Criteria
 
-* [ ] FastAPI runs
-* [ ] SQLite database created
-* [ ] Note model works
-* [ ] Swagger UI works
-* [ ] Database connection works
+* [x] FastAPI runs
+* [x] SQLite database created
+* [x] Note model works
+* [x] Swagger UI works
+* [x] Database connection works
 
 ### Status
 
-**⬜ NOT STARTED**
+**✅ COMPLETED**
 
 ---
 
@@ -117,15 +117,15 @@ Implement all core Notes APIs.
 
 ### Tasks
 
-* [ ] Implement Create Note
-* [ ] Implement Get All Notes
-* [ ] Implement Get Single Note
-* [ ] Implement Update Note
-* [ ] Implement Delete Note
-* [ ] Implement Favorite/Unfavorite
-* [ ] Implement Search
-* [ ] Add validation
-* [ ] Add error handling
+* [x] Implement Create Note
+* [x] Implement Get All Notes
+* [x] Implement Get Single Note
+* [x] Implement Update Note
+* [x] Implement Delete Note
+* [x] Implement Favorite/Unfavorite
+* [x] Implement Search
+* [x] Add validation
+* [x] Add error handling
 
 ### API
 
@@ -146,23 +146,24 @@ GET    /api/notes/search?q={query}
 ```
 FastAPI Swagger
 Postman
+pytest (automated unit test suite)
 curl
 ```
 
 ### Completion Criteria
 
 ```
-CREATE  ✅
-READ    ✅
-UPDATE  ✅
-DELETE  ✅
-SEARCH  ✅
+CREATE   ✅
+READ     ✅
+UPDATE   ✅
+DELETE   ✅
+SEARCH   ✅
 FAVORITE ✅
 ```
 
 ### Status
 
-**⬜ NOT STARTED**
+**✅ COMPLETED**
 
 ---
 
