@@ -175,17 +175,17 @@ Build the basic Notion-inspired interface.
 
 ### Tasks
 
-* [ ] Create application layout
-* [ ] Create sidebar
-* [ ] Create header
-* [ ] Create dashboard
-* [ ] Create page cards
-* [ ] Create New Page button
-* [ ] Create Search UI
-* [ ] Create Favorites section
-* [ ] Create Trash section
-* [ ] Add responsive layout
-* [ ] Add routing
+* [x] Create application layout
+* [x] Create sidebar
+* [x] Create header
+* [x] Create dashboard
+* [x] Create page cards
+* [x] Create New Page button
+* [x] Create Search UI
+* [x] Create Favorites section
+* [x] Create Trash section
+* [x] Add responsive layout
+* [x] Add routing
 
 ### Main Layout
 
@@ -209,15 +209,15 @@ Build the basic Notion-inspired interface.
 
 ### Completion Criteria
 
-* [ ] Dashboard works
-* [ ] Sidebar works
-* [ ] Navigation works
-* [ ] Page cards render
-* [ ] Responsive layout works
+* [x] Dashboard works
+* [x] Sidebar works
+* [x] Navigation works
+* [x] Page cards render
+* [x] Responsive layout works
 
 ### Status
 
-**⬜ NOT STARTED**
+**✅ COMPLETED**
 
 ---
 
