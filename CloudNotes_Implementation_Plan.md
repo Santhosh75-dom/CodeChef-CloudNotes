@@ -470,17 +470,17 @@ Create the Ubuntu EC2 server.
 
 ### Tasks
 
-* [ ] Verify AWS account
-* [ ] Open AWS Console
-* [ ] Open EC2
-* [ ] Launch Instance
-* [ ] Select Ubuntu
-* [ ] Select free-tier eligible configuration
-* [ ] Create key pair
-* [ ] Configure Security Group
-* [ ] Launch instance
-* [ ] Wait for instance to become running
-* [ ] Get public IPv4 address
+* [x] Verify AWS account
+* [x] Open AWS Console
+* [x] Open EC2
+* [x] Launch Instance
+* [x] Select Ubuntu
+* [x] Select free-tier eligible configuration
+* [x] Create key pair
+* [x] Configure Security Group
+* [x] Launch instance
+* [x] Wait for instance to become running
+* [x] Get public IPv4 address
 
 ### Expected
 
@@ -495,14 +495,14 @@ EC2 Instance
 
 ### Completion Criteria
 
-* [ ] Instance running
-* [ ] Ubuntu selected
-* [ ] Key pair created
-* [ ] Public IP available
+* [x] Instance running
+* [x] Ubuntu selected
+* [x] Key pair created
+* [x] Public IP available
 
 ### Status
 
-**⬜ NOT STARTED**
+**✅ COMPLETED**
 
 ---
 
@@ -514,13 +514,13 @@ Connect your computer to the Ubuntu EC2 instance.
 
 ### Tasks
 
-* [ ] Download `.pem` key
-* [ ] Store key securely
-* [ ] Configure key permissions
-* [ ] Connect using SSH
-* [ ] Verify Ubuntu environment
-* [ ] Update packages
-* [ ] Install required software
+* [x] Download `.pem` key
+* [x] Store key securely
+* [x] Configure key permissions
+* [x] Connect using SSH
+* [x] Verify Ubuntu environment
+* [x] Update packages
+* [x] Install required software
 
 ### Connection Concept
 
@@ -542,7 +542,7 @@ ubuntu@ip-xxx-xxx-xxx-xxx:~$
 
 ### Status
 
-**⬜ NOT STARTED**
+**✅ COMPLETED**
 
 ---
 
@@ -554,15 +554,15 @@ Deploy FastAPI + SQLite to EC2.
 
 ### Tasks
 
-* [ ] Clone GitHub repository
-* [ ] Navigate to backend
-* [ ] Install Python
-* [ ] Create virtual environment
-* [ ] Install dependencies
-* [ ] Configure SQLite
-* [ ] Run FastAPI
-* [ ] Test backend on EC2
-* [ ] Configure backend to remain running
+* [x] Clone GitHub repository
+* [x] Navigate to backend
+* [x] Install Python
+* [x] Create virtual environment
+* [x] Install dependencies
+* [x] Configure SQLite
+* [x] Run FastAPI
+* [x] Test backend on EC2
+* [x] Configure backend to remain running
 
 ### Expected
 
@@ -578,14 +578,14 @@ EC2
 
 ### Completion Criteria
 
-* [ ] Backend starts successfully
-* [ ] Database works
-* [ ] API responds
-* [ ] CRUD works on EC2
+* [x] Backend starts successfully
+* [x] Database works
+* [x] API responds
+* [x] CRUD works on EC2
 
 ### Status
 
-**⬜ NOT STARTED**
+**✅ COMPLETED**
 
 ---
 
@@ -597,14 +597,14 @@ Deploy the React frontend to EC2.
 
 ### Tasks
 
-* [ ] Install Node.js
-* [ ] Install frontend dependencies
-* [ ] Configure production API URL
-* [ ] Build React application
-* [ ] Install Nginx
-* [ ] Configure Nginx
-* [ ] Serve frontend
-* [ ] Configure API reverse proxy
+* [x] Install Node.js
+* [x] Install frontend dependencies
+* [x] Configure production API URL
+* [x] Build React application
+* [x] Install Nginx
+* [x] Configure Nginx
+* [x] Serve frontend
+* [x] Configure API reverse proxy
 
 ### Final Architecture
 
