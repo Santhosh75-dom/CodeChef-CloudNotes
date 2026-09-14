@@ -811,21 +811,21 @@ Avoid unnecessary AWS charges after evaluation.
 CLOUDNOTES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-PHASE 0   Project Setup              ⬜
-PHASE 1   Backend Foundation         ⬜
-PHASE 2   CRUD REST API              ⬜
-PHASE 3   Frontend Foundation        ⬜
-PHASE 4   Notion Editor              ⬜
-PHASE 5   Frontend + Backend         ⬜
-PHASE 6   UI/UX Polish               ⬜
-PHASE 7   Local Testing              ⬜
-PHASE 8   AWS EC2 Setup              ⬜
-PHASE 9   SSH                        ⬜
-PHASE 10  Backend Deployment         ⬜
-PHASE 11  Frontend Deployment        ⬜
-PHASE 12  Security Group             ⬜
-PHASE 13  Final Testing              ⬜
-PHASE 14  Submission                 ⬜
+PHASE 0   Project Setup              ✅
+PHASE 1   Backend Foundation         ✅
+PHASE 2   CRUD REST API              ✅
+PHASE 3   Frontend Foundation        ✅
+PHASE 4   Notion Editor              ✅
+PHASE 5   Frontend + Backend         ✅
+PHASE 6   UI/UX Polish               ✅
+PHASE 7   Local Testing              ✅
+PHASE 8   AWS EC2 Setup              ✅
+PHASE 9   SSH                        ✅
+PHASE 10  Backend Deployment         ✅
+PHASE 11  Frontend Deployment        ✅
+PHASE 12  Security Group             ✅
+PHASE 13  Final Testing              ✅
+PHASE 14  Submission                 ✅
 PHASE 15  AWS Cleanup                ⬜
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
